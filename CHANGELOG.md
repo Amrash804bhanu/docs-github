@@ -2,9 +2,9 @@
 
 **17 October 2025**
 
-We have updated the [Account and profile](https://docs.github.com/en/account-and-profile) and [Subscriptions and notifications](https://docs.github.com/en/subscriptions-and-notifications) docs for improved usability, scannability, and information architecture.
+We have updated the [Account and profile](https://docs.github.com/en/account-and-profile) and [Subscriptions and notifications](https://docs.github.com/en/subscriptions-and-notifications) docs for improved usability, scanning, and information architecture.
 
-To support accomplishing tasks without context switching or sifting through unrelated content, articles are now organized by content type and focused on jobs-to-be-done. Additionally, related information is now linked from content type to content type.
+To support accomplishing tasks without context switching or Shifting through unrelated content, articles are now organized by content type and focused on jobs-to-be-done. Additionally, related information is now linked from content type to content type.
 
 <hr>
 
@@ -16,7 +16,7 @@ We've added a new tutorial about how to [Review AI-generated code](https://docs.
 
 **13 October 2025**
 
-To help large enterprises keep their automations secure and consistent across many organizations, we published [Automating app installations in your enterprise's organizations](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-github-apps-for-your-enterprise/automate-installations). This is one of the most requested features from customer feedback.
+To help large enterprises keep their automation's secure and consistent across many organizations, we have published [Automating app installations in your enterprise's organizations](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-github-apps-for-your-enterprise/automate-installations). This is one of the most requested features from customer feedback.
 
 The tutorial shows how to manage installations and run automations using enterprise-owned apps and the new apps installation API. Security-conscious enterprises will see that Apps maximize security by providing short-lived, minimally scoped tokens at every stage.
 
@@ -29,7 +29,7 @@ The tutorial shows how to manage installations and run automations using enterpr
 We’ve updated the Spark documentation to support the launch for Copilot Enterprise users, making it easier to understand and enable Spark:
 
 * Conceptual article: [About GitHub Spark](https://docs.github.com/en/copilot/concepts/spark#enterprise-considerations) now includes enterprise considerations (governance, billing, infrastructure, and benefits).
-* How-to: [Managing GitHub Spark in your enterprise](https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-spark) is streamlined to prerequisites and enablement steps, with links to related policies.
+* How-to: [Managing GitHub Spark in your enterprise](https://docs.github.com/en/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-spark) is streamlined to prerequisites and enabled steps, with links to related policies.
 
 <hr>
 
@@ -69,7 +69,7 @@ To coincide with additional functionality for Copilot coding agent being added t
 
 GitHub Copilot CLI has been released as a public preview. It allows you to use Copilot directly from your terminal. You can use it to answer questions, write and debug code, and interact with GitHub.com. For example, you can ask Copilot to make some changes to a project and create a pull request.
 
-GitHub Copilot CLI gives you quick access to a powerful AI agent, without having to leave your terminal. It can help you complete tasks more quickly by working on your behalf, and you can work iteratively with GitHub Copilot CLI to build the code you need.
+GitHub Copilot CLI gives you quick access to a powerful AI agent, without having to leave your terminal. It can help you complete tasks more quickly by working on your behalf, and you can work simultaneously with GitHub Copilot CLI to build the code you need.
 
 See:
 
@@ -99,7 +99,7 @@ You can now:
 * Provide additional instructions to tailor the agent's output to your requirements. 
 * Choose the base branch for the agent to use. 
  
-These changes provide a more flexible, transparent, and user-friendly experience for managing automated coding tasks with Copilot coding agent. 
+These changes provide a more flexible, transparent, and user-friendly experience for managing automated coding task's with Copilot coding agent. 
 
 See the updated docs: [Using GitHub Copilot to work on an issue](https://docs.github.com/copilot/how-tos/use-copilot-agents/coding-agent/assign-copilot-to-an-issue#assigning-an-issue-to-copilot).
 
@@ -136,7 +136,7 @@ To keep the content focused on users' job-to-be-done, we simplified the procedur
 
 **17 September 2025**
 
-You can now publish your Spark app as "read-only." 
+You can now publish your Spark app as "Read-only." 
 
 By default, data stored in Spark is shared across all users of the app. You can choose to publish your app as "read-only" if you want to showcase your app to others, but you don't want others to be able to edit or delete any stored data.
 
